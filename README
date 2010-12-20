@@ -1,0 +1,4 @@
+This is a simple websocket server that simply echo's any messages received from the client.
+This implementation is only capable of one unique client.
+
+Written using and tested against Python 2.5.4 with Google Chrome 8.0.552.231.
